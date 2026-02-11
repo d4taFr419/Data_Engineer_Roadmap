@@ -69,6 +69,7 @@ I want YOUR SUPPORT to make this REPOSITORY available to every single person who
 
 - **Fundamentals Azure Data Services**
   - [Azure Data Fundamentals](https://youtu.be/S417kGaBerM?si=a0BeM7VxkFo3vRwb)
+  - [Azure Data Engineer Fundamentals For Beginners In ONE SHOT (2025)] (https://www.youtube.com/watch?v=I8XHFlNNYgU)
 
 - **Azure Data Factory**
   - [Azure Data Factory For Beginners](https://youtu.be/8zIVOdKyoDA?si=xJr514GinackIuJJ)
