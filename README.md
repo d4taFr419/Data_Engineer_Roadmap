@@ -128,6 +128,8 @@ This section is the HEART of this ROADMAP. Here, you will learn how to build COM
 ## Module 10 : Certifications and UDEMY Courses to Boost Your Resume
 This section contains the MOST RECOMMENDED CERTIFICATIONS and UDEMY COURSES for DATA ENGINEERS that will BOOST your RESUME and help you LAND your DREAM JOB because TRUST ME, RECRUITERS and HIRING MANAGERS LOVE to see CERTIFICATIONS on RESUMES.
 
+  - [P-900 Full Course | Azure Data Fundamentals Certification Training] (https://www.youtube.com/watch?v=XbV0Di5ggvY)
+
   - [Databricks Certified Data Engineer Associate Bootcamp](https://www.udemy.com/course/databricks-certified-data-engineer-associate-bootcamp/?couponCode=DATAFAMOCTOBER)
 
   - [Microsoft DP-700 Fabric Data Engineer Exam Prep](https://www.udemy.com/course/dp-700-exam-prep-fabric-data-engineer-associate/?couponCode=DATAFAMOCTOBER)
